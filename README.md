@@ -1,3 +1,5 @@
+<!-- http://me2.do/G6pgxe0q -->
+
 ## 더제이 웹에이전시
 
 ![sass course for the jay](__demo__/the-jay-sass.jpg)
@@ -58,16 +60,18 @@ CSS 확장언어인 Sass에 대해 알아보고, 실무에 활용하는 방법�
         └── sub.html
 ```
 
+-
+
 #### 커리큘럼
-1. Install
+1. __Install__
     * `Node.js` & `Ruby` 설치
     * `Grunt` 설치
     * `Sass` 설치
 
-2. Settings
+2. __Settings__
     * `Grunt` + `Sass` 구동환경 이해
 
-3. Sass Basic
+3. __Sass Basic__
     * 주석 `Comments`
     * 중첩 규칙/속성 `Nesting`
     * 부모 참조 선택자 `&`
@@ -75,7 +79,7 @@ CSS 확장언어인 Sass에 대해 알아보고, 실무에 활용하는 방법�
     * 대체 선택자 `%`
     * 모듈 호출 `@import`
 
-4. Sass Advanced
+4. __Sass Advanced__
     * 변수 `$`
     * 데이터 유형 `Data Type`
     * 연산 `Operation`
@@ -84,7 +88,7 @@ CSS 확장언어인 Sass에 대해 알아보고, 실무에 활용하는 방법�
     * 조건 `Conditions`
     * 반복 `Loops`
 
-5. Sass Add-on
+5. __Sass Add-on__
     * Compass
     * Bourbon
     * Susy
